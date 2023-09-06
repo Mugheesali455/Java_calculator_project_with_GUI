@@ -1,6 +1,4 @@
 
-package calculator;
-
 import javax.swing.JTextField;
 
 public class MainFrame extends javax.swing.JFrame {
